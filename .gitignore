@@ -13,6 +13,11 @@
 # MacOS
 .DS_Store
 
+# DevScene
+Assets/Scenes/DevScene.unity
+Assets/Scenes/DevScene.unity.meta
+# Assets/Scenes/DevScene.unity.meta
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
